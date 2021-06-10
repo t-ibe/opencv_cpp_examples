@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraExample", "CameraExam
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetectionExample", "FaceDetectionExample\FaceDetectionExample.vcxproj", "{F19CAE9A-2064-4B12-813C-0A266E004EC4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCVExample02", "OpenCVExample02\OpenCVExample02.vcxproj", "{FF23D5A0-42B6-4548-B20D-2567EBAE855B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F19CAE9A-2064-4B12-813C-0A266E004EC4}.Release|x64.Build.0 = Release|x64
 		{F19CAE9A-2064-4B12-813C-0A266E004EC4}.Release|x86.ActiveCfg = Release|Win32
 		{F19CAE9A-2064-4B12-813C-0A266E004EC4}.Release|x86.Build.0 = Release|Win32
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Debug|x64.ActiveCfg = Debug|x64
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Debug|x64.Build.0 = Debug|x64
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Debug|x86.Build.0 = Debug|Win32
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Release|x64.ActiveCfg = Release|x64
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Release|x64.Build.0 = Release|x64
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Release|x86.ActiveCfg = Release|Win32
+		{FF23D5A0-42B6-4548-B20D-2567EBAE855B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

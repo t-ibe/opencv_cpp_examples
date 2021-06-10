@@ -4,7 +4,8 @@
   - カメラ映像を使って、画像をキャプチャ。
   - キャプチャした画像をリアルタイムに画像処理する。
   - トラックバーでパラメータを変更できるようにする。
-  - サンプルプログラム： OpenCVExample01/CameraExample
+  - [サンプルプログラム1：マンガっぽく画像処理](../OpenCVExample01/CameraExample)
+  - [サンプルプログラム2：顔・目検出](../OpenCVExample01/FaceDetectionExample)
 
 - WinForms でアプリ作る
   - OpenCVで作った画像を、画面に表示する。
